@@ -1,4 +1,4 @@
-[23:17, 02/06/2025] Guinex Tattoo: # Verificador de Aprovação Escolar 🧮🎓
+# Verificador de Aprovação Escolar 🧮🎓
 
 Este é um programa simples em Python que verifica a situação de um aluno com base em duas notas fornecidas. Ele calcula a média e informa se o aluno foi *aprovado, está em **recuperação* ou foi *reprovado*.
 
